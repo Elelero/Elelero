@@ -1,18 +1,14 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffee4a&height=250&section=header&text=%20SongMin_Han🐤&fontSize=80&fontColor=584b4f&animation=fadeIn&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffee4a&height=100&section=header&text=%20SongMin_Han🐤&fontSize=60&fontColor=584b4f&animation=fadeIn&fontAlign=60)
 
-</div>
-
-# <div align=center> 👀Profile👀 </div>
 <div align=center>
 
 ![elelero GitHub stats](https://github-readme-stats.vercel.app/api?username=elelero&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elelero&layout=compact&theme=gruvbox&langs_count=5)
 
-
 </div>
-<br></br>
+
 <br></br>
 
 # <div align=center> ⚒️Stack🛠️ </div>
@@ -40,15 +36,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <br></br>
-<br></br>
 
-# <div align=center> ⌨️Cowork Tools🖱️ </div>  
+### <div align=center> ⌨️Cowork Tools🖱️ </div>  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
   
-<br></br>
 <br></br>
 
 # <div align=center> ♾️Baekjoon♾️ </div>
@@ -59,11 +53,8 @@
 
 </div>
 
-<br></br>
-<br></br>
-
 <div align=center>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffee4a&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=ffee4a&height=100&section=footer)
 
 </div>
