@@ -2,4 +2,4 @@
 
 # Baekjoon
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdals7799)](https://solved.ac/thdals7799)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={thdals7799}&theme=warm)<img src="http://mazandi.herokuapp.com/api?handle={thdals7799}&theme=warm"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=thdals7799&theme=warm)
