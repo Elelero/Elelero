@@ -4,8 +4,7 @@
 
 <div align=center>
 
-![elelero GitHub stats](https://github-readme-stats.vercel.app/api?username=elelero&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elelero&layout=compact&theme=gruvbox&langs_count=5)
+![elelero GitHub stats](https://github-readme-stats.vercel.app/api?username=elelero&show_icons=true&theme=gruvbox)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elelero&layout=compact&theme=gruvbox&langs_count=5)
 
 </div>
 
